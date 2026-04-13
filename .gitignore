@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.weights
+*.bin
+venv/
+.env
+.env.*
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+runs/
+spark-warehouse/
+derby.log
+metastore_db/
